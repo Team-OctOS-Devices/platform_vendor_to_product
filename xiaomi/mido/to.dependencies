@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "thp1997/device_xiaomi_mido",
+    "target_path": "device/xiaomi/mido",
+    "branch": "oct-14.1"
+  },
+  {
+    "repository": "thp1997/android_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "thp1997/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "n"
+  },
+  { 
+     "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+     "branch": "cm-14.1"
+   }
+]
