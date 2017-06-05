@@ -1,0 +1,20 @@
+[
+  {
+   "remote": "github",
+   "repository": "kishpatel1998/device_coolpad_CP8298_I00",
+   "target_path": "device/coolpad/CP8298_I00",
+   "branch": "los-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "kishpatel1998/android_vendor_coolpad_CP8298_I00",
+    "target_path": "vendor/coolpad/CP8298_I00",
+    "branch": "los-14.1"
+  },
+  {
+    "remote": "github",
+    "repository": "samgrande/android_kernel_coolpad_CP8298_I00",
+    "target_path": "kernel/coolpad/CP8298_I00",
+    "branch": "master"
+  }
+]
