@@ -25,7 +25,7 @@
   },
   {
     "remote": "to-d",
-    "repository": "platform_kernel_samsung_smdk4412",
+    "repository": "platform_kernel_samsung_smdk4412_t0lte",
     "target_path": "kernel/samsung/smdk4412",
     "revision": "oct-14.1"
   },
